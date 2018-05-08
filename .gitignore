@@ -26,4 +26,5 @@ gradle-app.setting
 # Ignore Intellij
 .idea
 *.iml
+out/
 
